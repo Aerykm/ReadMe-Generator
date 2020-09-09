@@ -1,1 +1,2 @@
 # homework9
+I was able to do alot of work on the index.js to generate the questions and get the prompts so show up in node along with a list I was able to generate to choice the license. I ran into trouble with my generatemarkdown.js and wasnt able to flesh that out as much as I wanted. 
