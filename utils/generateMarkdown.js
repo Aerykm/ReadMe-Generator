@@ -1,5 +1,0 @@
-function generateMarkdown(response) {
-    return
-
-
-}
